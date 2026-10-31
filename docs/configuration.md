@@ -1,4 +1,4 @@
-# Configuration
+# Configuration.
 
 All configuration lives in the `config/` folder as plain Python files. There are two ways
 to change it, and they work together:
