@@ -13,11 +13,7 @@ provide. Can apply to 100+ jobs in under an hour.
 Nothing is uploaded anywhere: your details stay in local files, and the control panel is
 reachable only from your own machine.
 
-## 📽️ See it in Action
 
-[![Auto Job Applier demo video](https://github.com/GodsScion/Auto_job_applier_linkedIn/assets/100998531/429f7753-ebb0-499b-bc5e-5b4ee28c4f69)](https://youtu.be/gMbB1fWZDHw)
-
-Click the image above to watch the demo, or use this link: https://youtu.be/gMbB1fWZDHw
 
 ## 🚀 Quick start
 
@@ -67,19 +63,15 @@ Full documentation lives in **[`docs/`](docs/README.md)**.
 | [Support and community](docs/support.md) | Discord, GitHub Discussions, socials, sponsoring |
 | [Disclaimer, Terms and License](docs/legal.md) | Read this before you use the tool |
 
-Version history and release notes are on the
-[Releases page](https://github.com/GodsScion/Auto_job_applier_linkedIn/releases).
 
-## 🙌 Community and socials
 
-- **Discord server**: https://discord.gg/fFp7uUzWCY — the fastest place to get help
-- **GitHub Discussions**: https://github.com/GodsScion/Auto_job_applier_linkedIn/discussions
-- **LinkedIn**: https://www.linkedin.com/in/saivigneshgolla/
-- **X/Twitter**: https://x.com/saivigneshgolla
-- **Email**: saivigneshgolla@outlook.com
 
-If this tool helped you, please share it with your peers, or
-[sponsor the project](https://github.com/sponsors/GodsScion). It is built by one independent
+- **LinkedIn**: https://www.linkedin.com/in/alvinjohnmathew03/
+- **Instagram**: alv_x.n
+- **Email**: alvinjohnmathew6@gmail.com
+
+If this tool helped you, please share it with your peers
+It is built by one independent
 developer.
 
 ## 📜 Disclaimer
@@ -91,6 +83,6 @@ with.** See [Disclaimer, Terms and Conditions](docs/legal.md).
 
 ## ⚖️ License
 
-Copyright (c) 2024-2026 Sai Vignesh Golla. Licensed under the **MIT License** — see
+Copyright (c) 2024-2026 Alvin John Mathew. Licensed under the **MIT License** — see
 [`LICENSE`](LICENSE). Releases before August 2026 were AGPL-3.0; see [`NOTICE`](NOTICE) for
 the relicensing history.
