@@ -75,10 +75,5 @@ developer.
 **This tool runs on your own computer and acts through your own accounts. It is provided
 free and open source, with no warranty of any kind. You are responsible for how you use it,
 including making sure your use complies with the terms of any website or service you use it
-with.** See [Disclaimer, Terms and Conditions](docs/legal.md).
+with.** 
 
-## ⚖️ License
-
-Copyright (c) 2024-2026 Alvin John Mathew. Licensed under the **MIT License** — see
-[`LICENSE`](LICENSE). Releases before August 2026 were AGPL-3.0; see [`NOTICE`](NOTICE) for
-the relicensing history.
