@@ -1,4 +1,4 @@
-# `config/search.py` — what to search for, and what to skip
+# `config/search.py` — what to search for, and what to skip.
 
 These settings decide **which jobs the tool applies to**. Open `config/search.py`, or use
 the **Search** and **Filters** tabs of the control panel.
