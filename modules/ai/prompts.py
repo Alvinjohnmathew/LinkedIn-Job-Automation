@@ -1,13 +1,13 @@
 '''
-Author:     Sai Vignesh Golla
-LinkedIn:   https://www.linkedin.com/in/saivigneshgolla/
+Author:     Alvin John Mathew
+LinkedIn:   https://www.linkedin.com/in/alvinjohnmathew03/
 
-Copyright (c) 2024-2026 Sai Vignesh Golla
+Copyright (c) 2026-2027 Alvin John Mathew
 
 License:    MIT License
             https://opensource.org/license/mit
 
-GitHub:     https://github.com/GodsScion/Auto_job_applier_linkedIn
+
 
 Prompt templates used by the AI layer (modules/ai/connections.py).
 '''
