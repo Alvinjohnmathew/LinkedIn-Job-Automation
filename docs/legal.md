@@ -34,7 +34,7 @@ Please consider the following:
 
 ## License
 
-Copyright (c) 2024-2026 Sai Vignesh Golla  <saivigneshgolla@outlook.com>
+Copyright (c) 2026-2027 Alvin John Mathew  
 
 This project is licensed under the **MIT License**. You are free to use, copy, modify, and
 distribute it — including in commercial and closed-source work — as long as the copyright
@@ -45,8 +45,6 @@ Releases before August 2026 were licensed under the AGPL-3.0. See [`NOTICE`](../
 the relicensing history, and the [`LICENSE`](../LICENSE) file for the full MIT text.
 
 The relicensing record and the acknowledgements for past contributors are in
-[`contributor-consent/contributors.md`](contributor-consent/contributors.md).
+[`contributor-consent/contributors.md`].
 
 ---
-
-[← Back to docs index](README.md)
