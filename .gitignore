@@ -22,3 +22,7 @@ apikeys.py
 user_config.json
 .bot_run.log
 .bot_run.pid
+venv/
+.venv/
+__pycache__/
+*.pyc
