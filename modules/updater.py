@@ -1,8 +1,12 @@
 '''
-Author:     Sai Vignesh Golla
+Author:     Alvin John Mathew
+LinkedIn:   https://www.linkedin.com/in/alvinjohnmathew03/
+
+Copyright (c) 2026-2027 Alvin John Mathew
+
 License:    MIT License
             https://opensource.org/license/mit
-GitHub:     https://github.com/GodsScion/Auto_job_applier_linkedIn
+
 
 version:    26.01.20.5.08
 
