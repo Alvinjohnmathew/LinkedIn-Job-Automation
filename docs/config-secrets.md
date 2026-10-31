@@ -1,4 +1,4 @@
-# `config/secrets.py` — login and AI
+# `config/secrets.py` — login and AI.
 
 Your LinkedIn credentials and the optional AI setup. Also available in the **Account** tab
 of the control panel.
