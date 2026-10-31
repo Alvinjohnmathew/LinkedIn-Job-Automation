@@ -1,9 +1,5 @@
 # LinkedIn AI Auto Job Applier 🤖
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB.svg)](https://www.python.org/downloads/)
-[![Discord](https://img.shields.io/badge/Discord-join-5865F2.svg)](https://discord.gg/fFp7uUzWCY)
-[![Sponsor](https://img.shields.io/badge/Sponsor-GodsScion-EA4AAA.svg)](https://github.com/sponsors/GodsScion)
 
 A free, open-source tool that automates job applications on LinkedIn. It runs entirely on
 your own computer, using your own LinkedIn account. It finds jobs relevant to you, fills in
