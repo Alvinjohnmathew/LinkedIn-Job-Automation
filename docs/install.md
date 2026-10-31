@@ -7,12 +7,6 @@ There are two ways to set this up. Both need the same two things installed first
   See [Quick start in the README](../README.md#-quick-start).
 - **Manual install** — the classic route, described below. Use it if you want to run
   `runAiBot.py` yourself, or if the launcher does not work on your system.
-
-[![Auto Job Applier setup tutorial video](https://github.com/user-attachments/assets/9e876187-ed3e-4fbf-bd87-4acc145880a2)](https://youtu.be/f9rdz74e1lM?si=4fRBcte0nuvr6tEH)
-
-Click the image above to watch the setup and configuration tutorial, or use this link:
-https://youtu.be/f9rdz74e1lM (recommended to watch at 2x speed).
-
 ## Manual install
 
 1. **Install [Python 3.10](https://www.python.org/) or above.** Download it from
@@ -51,11 +45,6 @@ https://youtu.be/f9rdz74e1lM (recommended to watch at 2x speed).
    `app.py` prints the address to open, e.g. `http://127.0.0.1:5000`, or another port if
    5000 is busy (on macOS, port 5000 is often taken by AirPlay Receiver).
 
-## Need help?
 
-If you have questions or need help setting it up, or just want to talk, join the Discord
-server: https://discord.gg/fFp7uUzWCY — see also [Support](support.md).
 
----
 
-[← Back to docs index](README.md)
