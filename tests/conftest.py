@@ -1,7 +1,12 @@
 '''
-Author:   Sai Vignesh Golla
-License:  MIT License  (https://opensource.org/license/mit)
-GitHub:   https://github.com/GodsScion/Auto_job_applier_linkedIn
+Author:     Alvin John Mathew
+LinkedIn:   https://www.linkedin.com/in/alvinjohnmathew03/
+
+Copyright (c) 2026-2027 Alvin John Mathew
+
+License:    MIT License
+            https://opensource.org/license/mit
+
 
 Shared fixtures and a custom test-summary printed after every run:
 failing tests first, then counts (ran / passed / failed / skipped), then an
