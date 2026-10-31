@@ -1,4 +1,4 @@
-# `config/personals.py` — your details
+# `config/personals.py` — your details.
 
 The answers that go into the "about you" fields of an application. Open
 `config/personals.py` and fill these in, or use the **Profile** tab of the control panel.
