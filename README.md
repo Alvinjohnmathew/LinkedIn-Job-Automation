@@ -63,7 +63,7 @@ Full documentation lives in **[`docs/`](docs/README.md)**.
 
 
 - **LinkedIn**: https://www.linkedin.com/in/alvinjohnmathew03/
-- **Instagram**: alv_x.n
+- **Instagram**: https://www.instagram.com/alv_x.n
 - **Email**: alvinjohnmathew6@gmail.com
 
 If this tool helped you, please share it with your peers
