@@ -35,7 +35,7 @@ no terminal commands.
 
 Your settings are saved locally in `user_config.json`. If you prefer the classic setup,
 editing `config/*.py` by hand still works exactly as before — see
-[Installation](docs/install.md) and [Configuration](docs/configuration.md).
+
 
 > **Tip for your first run:** set `stop_before_submit = True` in `config/settings.py` to have
 > the tool fill in every application and stop at the Review step without submitting, so you
@@ -43,24 +43,6 @@ editing `config/*.py` by hand still works exactly as before — see
 > [More on dry runs](docs/config-settings.md#dry-runs-stop_before_submit).
 
 ## 📚 Documentation
-
-Full documentation lives in **[`docs/`](docs/README.md)**.
-
-| | |
-|---|---|
-| [Installation](docs/install.md) | Python, Chrome, packages, the Chrome driver, running the bot and the control panel |
-| [Configuration](docs/configuration.md) | How configuration works and the order to do it in |
-| → [`personals.py`](docs/config-personals.md) | Your name, phone, address, equal-opportunity answers |
-| → [`questions.py`](docs/config-questions.md) | Easy Apply answers: experience, work authorization, salary, notice period, resume |
-| → [`search.py`](docs/config-search.md) | Search terms, LinkedIn filters, skip rules, visa-sponsorship filtering |
-| → [`secrets.py`](docs/config-secrets.md) | LinkedIn login and the optional AI setup |
-| → [`settings.py`](docs/config-settings.md) | How the bot runs: click gap, background mode, safe mode, dry runs |
-| [Contributing](CONTRIBUTING.md) | Code guidelines, where to send PRs, running the tests |
-| [Support and community](docs/support.md) | Discord, GitHub Discussions, socials, sponsoring |
-| [Disclaimer, Terms and License](docs/legal.md) | Read this before you use the tool |
-
-
-
 
 - **LinkedIn**: https://www.linkedin.com/in/alvinjohnmathew03/
 - **Instagram**: https://www.instagram.com/alv_x.n
